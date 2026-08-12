@@ -1,4 +1,4 @@
-# LinkedIn Cold Outreach Helper
+# LinkedIn Cold Outreach Helper Pro
 
 A simple Chrome extension that helps you save LinkedIn profiles and generate personalized cold outreach messages instantly.
 
